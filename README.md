@@ -24,7 +24,7 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>-->
 </p>
 
-## NUXTER
+## [NUXTER](https://nuxters.nuxt.com/shahabbasian)
 ![shahabbasian Nuxter profile](https://nuxters.nuxt.com/shahabbasian/__og_image__/og.png)
 
 <!--
