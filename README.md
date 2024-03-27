@@ -1,10 +1,9 @@
 # Hi there 👋
 
-## My name is Mahdi
+### My name is Mahdi
+### Full-Stack Developer
 * 🌍  I'm based in Mashhad, Iran
 * ✉️  You can contact me at [mahdi@shahabbasian.ir](mailto:mahdi@shahabbasian.ir)
-
-## Full-Stack Developer
 
 ## Skills
 <p align="left">
@@ -24,6 +23,9 @@
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>-->
 </p>
+
+## NUXTER
+![shahabbasian Nuxter profile](https://nuxters.nuxt.com/shahabbasian/__og_image__/og.png)
 
 <!--
 **shahabbasian/shahabbasian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
