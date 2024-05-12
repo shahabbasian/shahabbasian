@@ -25,7 +25,7 @@
 </p>
 
 ## [NUXTER](https://nuxters.nuxt.com/shahabbasian)
-![shahabbasian Nuxter profile](https://nuxters.nuxt.com/shahabbasian/__og_image__/og.png)
+[![shahabbasian Nuxter profile](https://nuxters.nuxt.com/card/shahabbasian/og.png)](https://nuxters.nuxt.com/shahabbasian)
 
 <!--
 **shahabbasian/shahabbasian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
